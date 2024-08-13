@@ -1,16 +1,16 @@
 {
   "avatar": "https://0.gravatar.com/avatar/b700a93656ece5fb9b0f3e8384ab39f239a43d7b76361a00f0fa515b4d8a18cf?size=256",
-  "username": "S-Mamashin",
-  "surnames": "Mamashin · Mamashin Squad",
+  "username": "NnllV0y",
+  "surnames": "NnllV0y · Cyber Squad",
   "user": [
     {
-      "name": "Степан \uD83D\uDC51",
-      "age": 24,
+      "name": "Андрей \uD83D\uDC51",
+      "age": 20,
       "languages": ["Russian", "English(British)", "Suomi"],
       "firstDev": "October, 2020",
-      "occupation": "Десктоп/Веб-разработка ⌨\uFE0F",
-      "sympathy": "CPP, GoLang, Rust \uD83E\uDD80",
-      "note": "Добро пожаловать на мою сайт-визитку в стиле Discord! \uD83D\uDE0E"
+      "occupation": "Код-разработка/Веб-разработка ⌨\uFE0F",
+      "sympathy": "CPP, JS, C++ \uD83E\uDD80",
+      "note": "Добро пожаловать! \uD83D\uDE0E"
     }
   ],
   "achievements": [
@@ -48,51 +48,51 @@
   "links": [
     {
       "title": "Telegram",
-      "url": "https://t.me/thetraextra",
+      "url": "https://t.me/Nnllv0y",
       "image": "https://smamashin.ru/e/discordcard/assets/links/tg.png",
       "description": "Для связи" 
     },
     {
       "title": "ВКонтакте",
-      "url": "https://vk.com/evangelion1995",
+      "url": "https://vk.com/nullvoy",
       "image": "https://smamashin.ru/e/discordcard/assets/links/vk.png",
       "description": "Че то делаю, но редко отвечаю" 
     },
     {
       "title": "GitHub",
-      "url": "https://github.com/SMamashin",
+      "url": "https://github.com/NnllV0y",
       "image": "https://smamashin.ru/e/discordcard/assets/links/git.png",
       "description": "Мои поделки и сурсня" 
     },
     {
       "title": "BlastHack",
-      "url": "https://www.blast.hk/members/386859/",
+      "url": "https://www.blast.hk/members/6672891/",
       "image": "https://smamashin.ru/e/discordcard/assets/links/bh.png",
       "description": "Ещё поделки и умные сообщения" 
     },
     {
       "title": "Какой-то форум",
-      "url": "https://lolz.live/members/2717556/",
+      "url": "https://lolz.live/members/8635656/",
       "image": "https://smamashin.ru/e/discordcard/assets/links/lolz.png",
       "description": "Просто существую" 
     },
     {
       "title": "Spotify",
-      "url": "https://open.spotify.com/user/31krtlmxgfyuljifugbwmutpgzly",
+      "url": "https://open.spotify.com/user/31krtlmxgfyuljifugbwmupgzly",
       "image": "https://smamashin.ru/e/discordcard/assets/links/spotify.png",
       "description": "Моё всё" 
     },
     {
       "title": "Reddit",
-      "url": "https://www.reddit.com/user/SMamashin/",
+      "url": "https://www.reddit.com/user/NullVOY/",
       "image": "https://smamashin.ru/e/discordcard/assets/links/reddit.png",
       "description": "Делаю вид, что знаю английский на А+" 
     },
     {
-      "title": "SMamashin.ru",
-      "url": "https://smamashin.ru/",
+      "title": "НЕ РИКРОЛЛ",
+      "url": "https://google.com/",
       "image": "https://smamashin.ru/assets/images/msc-mamashin-tag-2024-xl.png",
-      "description": "Легендарный сайт" 
+      "description": "Это база" 
     }
   ],
   "tools": [
